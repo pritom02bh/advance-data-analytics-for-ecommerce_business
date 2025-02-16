@@ -124,24 +124,10 @@ We welcome contributions! Here's how you can help:
 4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
 5. 🔄 Open a Pull Request
 
-## 📫 Support & Contact
+## 📫 Contact
+Developed by: Pritom Bhowmik
+- 📧 Email: pritom01dev@gmail.com  | bhowmikp1@montclair.edu
 
-Need help? Have questions? We're here for you!
 
-- 📧 Email: support@ecommerce360.com
-- 💬 Discord: [Join our community](https://discord.gg/ecommerce360)
-- 📖 Documentation: [docs.ecommerce360.com](https://docs.ecommerce360.com)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-**Made with ❤️ by the E-Commerce 360 Team**
-
-[Website](https://ecommerce360.com) • [Documentation](https://docs.ecommerce360.com) • [Blog](https://blog.ecommerce360.com)
 
 </div>
