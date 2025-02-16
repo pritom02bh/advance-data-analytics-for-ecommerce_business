@@ -154,9 +154,8 @@ gantt
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green.svg)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:your.email@example.com)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:bhowmikp1@montclair.edu | pritom01dev@gmail.com)
 
 </div>
 
@@ -164,7 +163,7 @@ gantt
 
 <div align="center">
 
-**Built with 💻 and ❤️ by [Your Name]**
+**Built with 💻 and ❤️ by Pritom Bhowmik**
 
 [View Live Demo](https://demo.link) • [Documentation](https://docs.link) • [Case Study](https://case-study.link)
 
